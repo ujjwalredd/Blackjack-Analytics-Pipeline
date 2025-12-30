@@ -126,6 +126,13 @@ Analytics reveal:
 - **Most Common Total**: Final total of 20 is the most frequent outcome (146,800 occurrences)
 - **Top Performers**: Player6 leads with total earnings of 1,462,085
 
+## Power BI Dashboard
+
+Due to Power BI tenant sharing restrictions, the interactive dashboard cannot be publicly embedded.
+Below are preview snapshots of the dashboard.
+
+![Dashboard Overview](Outputs/sample)
+
 ## SageMaker Canvas Results
 
 Machine learning models were trained using SageMaker Canvas for predictive analytics on game outcomes.
