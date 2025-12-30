@@ -131,7 +131,7 @@ Analytics reveal:
 Due to Power BI tenant sharing restrictions, the interactive dashboard cannot be publicly embedded.
 Below are preview snapshots of the dashboard.
 
-![Dashboard Overview](Outputs/sample)
+![Dashboard Overview](Outputs/sample.png)
 
 ## SageMaker Canvas Results
 
